@@ -1,0 +1,5 @@
+C:\Users\woltb\Desktop\CSE 210\Prove 2\obj\Debug\net6.0\Prove 2.csproj.AssemblyReference.cache
+C:\Users\woltb\Desktop\CSE 210\Prove 2\obj\Debug\net6.0\Prove 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woltb\Desktop\CSE 210\Prove 2\obj\Debug\net6.0\Prove 2.AssemblyInfoInputs.cache
+C:\Users\woltb\Desktop\CSE 210\Prove 2\obj\Debug\net6.0\Prove 2.AssemblyInfo.cs
+C:\Users\woltb\Desktop\CSE 210\Prove 2\obj\Debug\net6.0\Prove 2.csproj.CoreCompileInputs.cache
